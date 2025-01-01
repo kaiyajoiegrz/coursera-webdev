@@ -4,12 +4,11 @@
   text-align: justify;
 }
 
-p {
+div.col-lg-4.col-md-6.col-sm-12 {
   border: 1px solid black;
   background-color: #CCCCFF;
-  width: 90%;
-  height: 90%;
   float: left;
+  margin: 2.5px;
 }
 
 .row {
