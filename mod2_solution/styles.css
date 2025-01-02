@@ -24,7 +24,6 @@ div.col-lg-4.col-md-6.col-sm-1 {
 }
 
 .divheading {
-  box-sizing: border-box;
   border: 1px solid black;
   margin: 0px;
   width: 20%;
@@ -72,8 +71,8 @@ div.col-lg-4.col-md-6.col-sm-1 {
 /* Mobile view */
 @media (max-width: 767px) {
   .col-sm-1 {
-    width: 100%;
-    margin: 1.6%;
+    width: 95%;
+    margin: 2.5%;
     position: relative;
     padding: 5px;
   }
