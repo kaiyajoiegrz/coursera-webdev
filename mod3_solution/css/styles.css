@@ -1,0 +1,57 @@
+* {
+	font-family: "Afacad Flux", sans-serif;
+}
+
+/* MAIN CONTENT */
+
+#chicken {
+	background-color: #E5ECFF;
+	padding: 2px 3% 2px 3%;
+}
+
+.change-width {
+	width: 80%;
+}
+
+h3 {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+p {
+	font-size: 1.8em;
+}
+
+/* NAVBAR */
+
+.dropdown-button {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+
+.company-name {
+	float: left;
+	padding-left: 3%;
+	font-weight: bold;
+}
+
+.page-title {
+	font-weight: bold;
+}
+
+.item-border {
+	border-bottom: 1px solid #C4D4FF;
+	padding-bottom: 7px;
+}
+
+.item-padding {
+	padding-top: 7px;
+}
+
+#collapsable-nav.col-xs-12 {
+	width: 100%;
+    background-color: #E5ECFF;
+    text-align: center;
+    font-size: 1.6em;
+}
